@@ -4,4 +4,4 @@ The robotic car is controlled with a wireless, robotic hand glove that responds 
  Note that some thirdparty arduino libraries are used, and they have to be installed into your arduino libraries before the codes can compile.
 
 The pictures show the circuit diagram for each. 
-in case the two NRFs are having issues communicating, use a big decoupling capacitor of 1000uF or more across the VCC and GND of the modules
+in case the two NRFs are having issues communicating, use a big decoupling capacitor of 1000uF or higher across the VCC and GND of the modules
